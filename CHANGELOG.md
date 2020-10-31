@@ -1,4 +1,4 @@
-## 0.2.0 - First Release
+## 0.2.1 - First Release
 
 + Support for Atom's core language packages:
   - HTML, CSS, SCSS, LESS, SASS
