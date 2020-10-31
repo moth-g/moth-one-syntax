@@ -1,0 +1,32 @@
+@import "colors";
+@import "alias";
+
+// General colors
+@fgc: @fg-c1;
+@bgc: @bg-c1;
+@cursor-c: white;
+@select-c: fade(@fg-c3, 35%);
+
+// Guide colors
+@wrap-guide-c:   lighten(@bgc, 3%);
+@indent-guide-c: lighten(@bgc, 4%);
+@invisible-char-c: @fg-c3;
+
+// For find and replace markers
+@result-marker-c: @mint;
+@result-marker-select-c: @notice;
+
+// Gutter colors
+@gutter-fgc:        @fg-c4;
+@gutter-fgc-select: @fgc;
+@gutter-bgc:        transparent;
+@gutter-bgc-select: transparent;
+
+// Bracket Matcher Package colors
+@bracket: @notice;
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed:  @blue;
+@syntax-color-added:    @mint;
+@syntax-color-modified: @orange;
+@syntax-color-removed:  @notice;
