@@ -4,7 +4,8 @@ An austere dark syntax theme for Atom, part of Moth's [FONC YOU](https://germanp
 
 Here is the ninja poet of color schemes.
 
-![Moth Mono Screenshot](moth_one_ss01.png)
+![Moth Mono Screenshot](https://user-images.githubusercontent.com/73740741/97789103-0e256500-1bbe-11eb-9e9f-e582e3a3e8a3.png)
+
 `Font: Inconsolata / UI: One Dark / CSS colors: highlight-colors by brumm (not part of the theme)`
 
 Moth One provides a spartan yet polished experience for dimly lit working environments.
